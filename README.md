@@ -1,6 +1,6 @@
 # percobaan_uas
 
-A new Flutter project.
+UAS Capstone Project Mobile Progamming
 
 ## Getting Started
 
